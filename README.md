@@ -21,7 +21,7 @@ The problem presents a two-boundary value problem solved using a **"Shooting Met
 Following the algorithms described in the course documentation, the integration is split:
 1.  **Inward Integration:** Starts from the photosphere boundary conditions ($R_{tot} \approx 11.5 R_\odot$, $L_{tot} \approx 70 L_\odot$) and integrates inward towards the center.
 2.  **Outward Integration:** Starts near the center ($M_r \to 0, L_r \to 0$) with an estimated central temperature ($T_c$) and integrates outward.
-3.  **Fitting:** The code iteratively adjusts the estimated Central Temperature ($T_c$) until the pressure solutions from both integrations match at a predefined intermediate mass fitting point.
+3.  **Fitting:** Auxiliar codes were used to estimate the best Central Temperature ($T_c$) until the pressure solutions from both integrations match at a predefined intermediate mass fitting point.
 
 ## Results
 
