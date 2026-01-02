@@ -30,7 +30,7 @@ The model successfully converges, providing the profiles for Pressure ($P$), Tem
 ### Structure Profile
 Below is the normalized plot of the structural parameters against the normalized radius ($r/R_{tot}$).
 
-![Stellar Structure Plot](stellar_structure_plot.png)
+![Stellar Structure Plot](final_model_complete.png)
 
 *Figure 1: Normalized interior structure of the 5 solar mass model. Note the steep gradients near the center and the transition between energy transport regions.*
 
