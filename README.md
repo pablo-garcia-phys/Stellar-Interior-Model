@@ -40,7 +40,6 @@ The code relies on standard scientific Python libraries.
 ### Prerequisites
 * Python 3.x
 * `numpy`
-* `scipy`
 * `matplotlib`
 
 Install dependencies using:
